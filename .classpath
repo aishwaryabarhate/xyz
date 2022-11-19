@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/Aishwarya/Selenium All Jar files/Selenium/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
